@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    parameters {
+        choice(name: 'ENV', choices: ['dev', 'sit', 'uat'])
+    }
+
     tools {
         maven 'Maven3'
     }
