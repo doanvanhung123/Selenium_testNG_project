@@ -9,7 +9,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-repo/automation-framework.git'
+                git 'https://github.com/doanvanhung123/Selenium_testNG_project'
             }
         }
 
@@ -30,6 +30,12 @@ pipeline {
     post {
         always {
             junit 'target/surefire-reports/*.xml'
+
+            publishHTML([
+                        reportDir: 'report/extentV5',
+                        reportFiles: 'ExtentReport.html',
+                        reportName: 'Extent Report'
+                    ])
         }
     }
 }
