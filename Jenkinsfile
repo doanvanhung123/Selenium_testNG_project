@@ -9,7 +9,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/doanvanhung123/Selenium_testNG_project'
+                git branch: 'main', url: 'https://github.com/doanvanhung123/Selenium_testNG_project'
             }
         }
 
