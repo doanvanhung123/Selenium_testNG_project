@@ -1,0 +1,14 @@
+[24-03-2025_02-03-53] INFO listener.ExtentListener - Start Test: TestSomeThings
+[24-03-2025_02-03-57] INFO listener.ExtentListener - Step 1 : Navigate to Home Page
+[24-03-2025_02-03-58] INFO listener.ExtentListener - 🔵 Test Started: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-03-58] INFO listener.ExtentListener - Click to Category options : Women
+[24-03-2025_02-03-58] INFO listener.ExtentListener - Click to Category sub options : Dress
+[24-03-2025_02-04-00] INFO listener.ExtentListener - ❌ Test Failed: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-04-00] INFO listener.ExtentListener - TC_01_VerifyVideoTitleContainSearchValue failed
+[24-03-2025_02-04-00] INFO listener.ExtentListener - Step 1 : Navigate to Home Page
+[24-03-2025_02-04-02] INFO listener.ExtentListener - 🔵 Test Started: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-04-02] INFO listener.ExtentListener - Click to Category options : Women
+[24-03-2025_02-04-02] INFO listener.ExtentListener - Click to Category sub options : Dress
+[24-03-2025_02-04-04] INFO listener.ExtentListener - ✅ Test Passed: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-04-04] INFO listener.ExtentListener - TC_02_VerifyVideoTitleContainSearchValue passed
+[24-03-2025_02-04-04] INFO listener.ExtentListener - Finish Test: TestSomeThings

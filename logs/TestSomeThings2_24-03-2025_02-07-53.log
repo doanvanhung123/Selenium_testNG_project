@@ -1,0 +1,7 @@
+[24-03-2025_02-07-53] INFO listener.ExtentListener - Start Test: TestSomeThings2
+[24-03-2025_02-07-53] INFO listener.ExtentListener - ⚠️ Test Skipped: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-07-53] INFO listener.ExtentListener - ⚠️ Test Skipped: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-07-53] INFO listener.ExtentListener - Finish Test: TestSomeThings2
+[24-03-2025_02-07-54] INFO listener.ExtentListener - ⚠️ Test Skipped: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-07-54] INFO listener.ExtentListener - ⚠️ Test Skipped: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-07-54] INFO listener.ExtentListener - Finish Test: TestSomeThings

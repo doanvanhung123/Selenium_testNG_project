@@ -1,0 +1,10 @@
+[24-03-2025_22-57-36] INFO [BaseTest] common.BaseTest - Read properties file
+[24-03-2025_22-57-40] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[24-03-2025_22-57-40] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[24-03-2025_22-57-40] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[24-03-2025_22-57-46] INFO [BasePage] common.BaseTest - Click/tap on Product Button failed
+[24-03-2025_22-57-46] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[24-03-2025_22-57-46] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "report.ExtentTestManager.getTest()" is null
+[24-03-2025_22-57-46] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is failed.
+[24-03-2025_22-57-46] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "report.ExtentTestManager.getTest()" is null
+[24-03-2025_22-57-46] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings

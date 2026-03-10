@@ -1,0 +1,11 @@
+[25-03-2025_23-47-41] INFO [BaseTest] common.BaseTest - Read properties file
+[25-03-2025_23-47-41] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[25-03-2025_23-47-41] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "String.toUpperCase()" because the return value of "common.GlobalVariable.getPlatform()" is null
+[25-03-2025_23-47-41] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is failed.
+[25-03-2025_23-47-41] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "report.ExtentTestManager.getTest()" is null
+[25-03-2025_23-47-41] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings2
+[25-03-2025_23-47-42] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[25-03-2025_23-47-42] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: null value in entry: url=null
+[25-03-2025_23-47-42] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is failed.
+[25-03-2025_23-47-42] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "report.ExtentTestManager.getTest()" is null
+[25-03-2025_23-47-42] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings

@@ -1,0 +1,8 @@
+[24-03-2025_01-53-00] INFO Testcase - Step 1 : Navigate to Home Page
+[24-03-2025_01-53-01] INFO Testcase - Click to Category options : Women
+[24-03-2025_01-53-01] INFO Testcase - Click to Category sub options : Dress
+[24-03-2025_01-53-03] INFO Testcase - TC_01_VerifyVideoTitleContainSearchValue failed
+[24-03-2025_01-53-03] INFO Testcase - Step 1 : Navigate to Home Page
+[24-03-2025_01-53-04] INFO Testcase - Click to Category options : Women
+[24-03-2025_01-53-04] INFO Testcase - Click to Category sub options : Dress
+[24-03-2025_01-53-05] INFO Testcase - TC_02_VerifyVideoTitleContainSearchValue passed

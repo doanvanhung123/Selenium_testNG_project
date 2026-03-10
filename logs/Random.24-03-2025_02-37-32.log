@@ -1,0 +1,13 @@
+[24-03-2025_02-37-37] INFO [LogUtils] Testcase - Precondition: Navigate to Home Page
+[24-03-2025_02-37-38] INFO [LogUtils] Testcase - 🔵 Test Started: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-37-38] INFO [LogUtils] Testcase - Click to Category options : Women
+[24-03-2025_02-37-38] INFO [LogUtils] Testcase - Click to Category sub options : Dress
+[24-03-2025_02-37-40] INFO [LogUtils] Testcase - ❌ Test Failed: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-37-40] INFO [LogUtils] Testcase - TC_01_VerifyVideoTitleContainSearchValue failed
+[24-03-2025_02-37-40] INFO [LogUtils] Testcase - Precondition: Navigate to Home Page
+[24-03-2025_02-37-41] INFO [LogUtils] Testcase - 🔵 Test Started: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-37-41] INFO [LogUtils] Testcase - Click to Category options : Women
+[24-03-2025_02-37-41] INFO [LogUtils] Testcase - Click to Category sub options : Dress
+[24-03-2025_02-37-42] INFO [LogUtils] Testcase - ✅ Test Passed: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-37-42] INFO [LogUtils] Testcase - TC_02_VerifyVideoTitleContainSearchValue passed
+[24-03-2025_02-37-42] INFO [LogUtils] Testcase - Finish Test: TestSomeThings

@@ -1,0 +1,21 @@
+[24-03-2025_02-51-15] INFO [BaseTest] common.BaseTest - Read properties file
+[24-03-2025_02-51-15] INFO [Listener] listener.ExtentListener - ⚠️ Test Skipped: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-51-15] INFO [Listener] listener.ExtentListener - ⚠️ Test Skipped: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-51-15] INFO [Listener] listener.ExtentListener - Finish Test: TestSomeThings
+[24-03-2025_02-51-18] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[24-03-2025_02-51-18] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[24-03-2025_02-51-18] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[24-03-2025_02-51-20] INFO [Listener] listener.ExtentListener - 🔵 Test Started: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-51-20] INFO [CategoryPageActions] common.BaseTest - Click to Category options : Women
+[24-03-2025_02-51-20] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[24-03-2025_02-51-20] INFO [BasePage] common.BaseTest - Click/tap on Click to Category options : Women
+[24-03-2025_02-51-20] INFO [Listener] listener.ExtentListener - ✅ Test Passed: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-51-20] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[24-03-2025_02-51-20] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[24-03-2025_02-51-20] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[24-03-2025_02-51-21] INFO [Listener] listener.ExtentListener - 🔵 Test Started: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-51-21] INFO [CategoryPageActions] common.BaseTest - Click to Category options : Women
+[24-03-2025_02-51-21] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[24-03-2025_02-51-21] INFO [BasePage] common.BaseTest - Click/tap on Click to Category options : Women
+[24-03-2025_02-51-21] INFO [Listener] listener.ExtentListener - ✅ Test Passed: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-51-21] INFO [Listener] listener.ExtentListener - Finish Test: TestSomeThings2

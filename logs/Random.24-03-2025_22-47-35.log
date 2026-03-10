@@ -1,0 +1,25 @@
+[24-03-2025_22-47-35] INFO [BaseTest] common.BaseTest - Read properties file
+[24-03-2025_22-47-39] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[24-03-2025_22-47-39] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[24-03-2025_22-47-39] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[24-03-2025_22-47-44] INFO [ExtentListener] listener.ExtentListener - Running test case TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_22-47-44] INFO [CategoryPageActions] common.BaseTest - Click to Category options : Women
+[24-03-2025_22-47-44] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[24-03-2025_22-47-44] INFO [BasePage] common.BaseTest - Click/tap on Click to Category options : Women
+[24-03-2025_22-47-44] INFO [CategoryPageActions] common.BaseTest - Click to Category sub options : Dress
+[24-03-2025_22-47-44] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category sub options : Dress
+[24-03-2025_22-47-44] INFO [BasePage] common.BaseTest - Click/tap on Click to Category sub options : Dress
+[24-03-2025_22-47-46] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is failed.
+[24-03-2025_22-47-46] ERROR [ExtentListener] listener.ExtentListener - java.lang.AssertionError: expected [true] but found [false]
+[24-03-2025_22-47-46] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[24-03-2025_22-47-46] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[24-03-2025_22-47-46] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[24-03-2025_22-47-47] INFO [ExtentListener] listener.ExtentListener - Running test case TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_22-47-47] INFO [CategoryPageActions] common.BaseTest - Click to Category options : Women
+[24-03-2025_22-47-47] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[24-03-2025_22-47-47] INFO [BasePage] common.BaseTest - Click/tap on Click to Category options : Women
+[24-03-2025_22-47-47] INFO [CategoryPageActions] common.BaseTest - Click to Category sub options : Dress
+[24-03-2025_22-47-47] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category sub options : Dress
+[24-03-2025_22-47-47] INFO [BasePage] common.BaseTest - Click/tap on Click to Category sub options : Dress
+[24-03-2025_22-47-49] INFO [ExtentListener] listener.ExtentListener - Test case TC_02_VerifyVideoTitleContainSearchValue is passed.
+[24-03-2025_22-47-49] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings

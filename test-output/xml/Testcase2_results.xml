@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSomeThings2"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.164">
+  <properties />
+  
+  
+            <testcase name="TC_01_VerifyVideoTitleContainSearchValue" time="0.083" classname="Testcase2" />
+                <testcase name="TC_02_VerifyVideoTitleContainSearchValue" time="0.081" classname="Testcase2" />
+      
+</testsuite>

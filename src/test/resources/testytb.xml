@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteName"  parallel = "tests" thread-count="2">
+    <parameter name="platform" value="chrome" />  <!-- Truyền tham số platform -->
+    <listeners>
+        <listener class-name="listener.ExtentListener"/>
+    </listeners>
+
+    <test name="TestSomeThings">
+        <classes>
+            <class name="Testcase"/>  <!-- Thay bằng tên class test của bạn -->
+        </classes>
+    </test>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+
+
+
+</suite>

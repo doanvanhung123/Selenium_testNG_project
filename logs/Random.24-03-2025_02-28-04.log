@@ -1,0 +1,26 @@
+[24-03-2025_02-28-08] INFO Testcase - Precondition: Navigate to Home Page
+[24-03-2025_02-28-08] INFO Testcase - Precondition: Navigate to Home Page
+[24-03-2025_02-28-10] INFO Testcase - 🔵 Test Started: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-10] INFO Testcase - Click to Category options : Women
+[24-03-2025_02-28-10] INFO Testcase - 🔵 Test Started: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-10] INFO Testcase - Click to Category options : Women
+[24-03-2025_02-28-10] INFO Testcase - Click to Category sub options : Dress
+[24-03-2025_02-28-10] INFO Testcase - Click to Category sub options : Dress
+[24-03-2025_02-28-11] INFO Testcase - ❌ Test Failed: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-11] INFO Testcase - ❌ Test Failed: TC_01_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-11] INFO Testcase - TC_01_VerifyVideoTitleContainSearchValue failed
+[24-03-2025_02-28-11] INFO Testcase - TC_01_VerifyVideoTitleContainSearchValue failed
+[24-03-2025_02-28-11] INFO Testcase - Precondition: Navigate to Home Page
+[24-03-2025_02-28-11] INFO Testcase - Precondition: Navigate to Home Page
+[24-03-2025_02-28-13] INFO Testcase - 🔵 Test Started: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-13] INFO Testcase - Click to Category options : Women
+[24-03-2025_02-28-13] INFO Testcase - Click to Category sub options : Dress
+[24-03-2025_02-28-13] INFO Testcase - 🔵 Test Started: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-13] INFO Testcase - Click to Category options : Women
+[24-03-2025_02-28-13] INFO Testcase - Click to Category sub options : Dress
+[24-03-2025_02-28-14] INFO Testcase - ✅ Test Passed: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-14] INFO Testcase - TC_02_VerifyVideoTitleContainSearchValue passed
+[24-03-2025_02-28-14] INFO Testcase - ✅ Test Passed: TC_02_VerifyVideoTitleContainSearchValue
+[24-03-2025_02-28-14] INFO Testcase - TC_02_VerifyVideoTitleContainSearchValue passed
+[24-03-2025_02-28-14] INFO Testcase - Finish Test: TestSomeThings
+[24-03-2025_02-28-14] INFO Testcase - Finish Test: TestSomeThings2

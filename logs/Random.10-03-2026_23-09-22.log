@@ -1,0 +1,19 @@
+[10-03-2026_23-09-22] INFO [BaseTest] common.BaseTest - Read properties file
+[10-03-2026_23-09-30] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[10-03-2026_23-09-30] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[10-03-2026_23-09-30] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[10-03-2026_23-09-30] INFO [ExtentListener] listener.ExtentListener - Running test case TC_01_VerifyVideoTitleContainSearchValue
+[10-03-2026_23-09-30] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[10-03-2026_23-09-30] INFO [BasePage] common.BaseTest - Click/tap on Category options : Women
+[10-03-2026_23-09-32] INFO [BasePage] common.BaseTest - Click/tap on Category options : Women failed
+[10-03-2026_23-09-32] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[10-03-2026_23-09-32] ERROR [ExtentListener] listener.ExtentListener - java.lang.RuntimeException: Click/tap on Category options : Women failed
+[10-03-2026_23-09-32] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[10-03-2026_23-09-32] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[10-03-2026_23-09-32] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[10-03-2026_23-09-33] INFO [BasePage] common.BaseTest - Click/tap on Product Button failed
+[10-03-2026_23-09-33] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[10-03-2026_23-09-33] ERROR [ExtentListener] listener.ExtentListener - java.lang.RuntimeException: Click/tap on Product Button failed
+[10-03-2026_23-09-33] ERROR [ExtentListener] listener.ExtentListener - Test case TC_02_VerifyVideoTitleContainSearchValue is skipped.
+[10-03-2026_23-09-33] ERROR [ExtentListener] listener.ExtentListener - java.lang.RuntimeException: Click/tap on Product Button failed
+[10-03-2026_23-09-33] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings

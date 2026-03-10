@@ -1,0 +1,36 @@
+[25-03-2025_23-35-47] INFO [BaseTest] common.BaseTest - Read properties file
+[25-03-2025_23-35-47] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[25-03-2025_23-35-47] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "String.toUpperCase()" because the return value of "common.GlobalVariable.getPlatform()" is null
+[25-03-2025_23-35-47] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is failed.
+[25-03-2025_23-35-47] ERROR [ExtentListener] listener.ExtentListener - java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "report.ExtentTestManager.getTest()" is null
+[25-03-2025_23-35-47] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings2
+[25-03-2025_23-35-51] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[25-03-2025_23-35-51] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[25-03-2025_23-35-51] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[25-03-2025_23-35-52] INFO [ExtentListener] listener.ExtentListener - Running test case TC_01_VerifyVideoTitleContainSearchValue
+[25-03-2025_23-35-53] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[25-03-2025_23-35-53] INFO [BasePage] common.BaseTest - Click/tap on Category options : Women
+[25-03-2025_23-35-53] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category sub options : Dress
+[25-03-2025_23-35-53] INFO [BasePage] common.BaseTest - Click/tap on Category sub options : Dress
+[25-03-2025_23-35-54] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is skipped.
+[25-03-2025_23-35-54] ERROR [ExtentListener] listener.ExtentListener - java.lang.AssertionError: expected [true] but found [false]
+[25-03-2025_23-35-54] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[25-03-2025_23-35-54] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[25-03-2025_23-35-54] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[25-03-2025_23-35-55] INFO [ExtentListener] listener.ExtentListener - Running test case TC_01_VerifyVideoTitleContainSearchValue
+[25-03-2025_23-35-55] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[25-03-2025_23-35-56] INFO [BasePage] common.BaseTest - Click/tap on Category options : Women
+[25-03-2025_23-35-56] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category sub options : Dress
+[25-03-2025_23-35-56] INFO [BasePage] common.BaseTest - Click/tap on Category sub options : Dress
+[25-03-2025_23-35-57] ERROR [ExtentListener] listener.ExtentListener - Test case TC_01_VerifyVideoTitleContainSearchValue is failed.
+[25-03-2025_23-35-57] ERROR [ExtentListener] listener.ExtentListener - java.lang.AssertionError: expected [true] but found [false]
+[25-03-2025_23-35-57] INFO [HomePageActions] common.BaseTest - Precondition: Navigate to Home Page
+[25-03-2025_23-35-57] INFO [BasePage] common.BaseTest - Wait for element visible Product Button
+[25-03-2025_23-35-57] INFO [BasePage] common.BaseTest - Click/tap on Product Button
+[25-03-2025_23-35-58] INFO [ExtentListener] listener.ExtentListener - Running test case TC_02_VerifyVideoTitleContainSearchValue
+[25-03-2025_23-35-58] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category options : Women
+[25-03-2025_23-35-58] INFO [BasePage] common.BaseTest - Click/tap on Category options : Women
+[25-03-2025_23-35-58] INFO [BasePage] common.BaseTest - Wait for element visible Click to Category sub options : Dress
+[25-03-2025_23-35-58] INFO [BasePage] common.BaseTest - Click/tap on Category sub options : Dress
+[25-03-2025_23-36-00] INFO [ExtentListener] listener.ExtentListener - Test case TC_02_VerifyVideoTitleContainSearchValue is passed.
+[25-03-2025_23-36-00] INFO [ExtentListener] listener.ExtentListener - End testing TestSomeThings
